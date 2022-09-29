@@ -21,8 +21,8 @@ for i in range(52):
 for i in sourceDNA:
     print(i,sourceDNA[i])
 
-with open("source_root_basic_info.json","w") as f:
+with open("./data/source_root_basic_info.json","w") as f:
     f.write(json.dumps(sourceDNA,indent=4))
 
-with open("source_root_count_info.json","w") as f:
+with open("./data/source_root_count_info.json","w") as f:
     f.write(json.dumps(sourceCount,indent=4))

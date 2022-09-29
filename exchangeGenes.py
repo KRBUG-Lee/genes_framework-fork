@@ -1,6 +1,6 @@
 import json,random,string,hashlib,time
 
-rooters=json.load(open("./source_root_basic_info.json"))
+rooters=json.load(open("./data/source_root_basic_info.json"))
 dnaCount={}
 
 while True:
@@ -46,8 +46,8 @@ while len(bios)<2000:
                 dnaCount[n["name"]]=count
             break
 
-with open("save_genes_basic.json","w") as f:
+with open("./data/save_genes_basic.json","w") as f:
     f.write(json.dumps(bios,indent=4))
 
-with open("save_genes_count.json","w") as f:
+with open("./data/save_genes_count.json","w") as f:
     f.write(json.dumps(dnaCount,indent=4))

@@ -1,7 +1,7 @@
 import json
 from functools import cache
 
-genes=json.load(open("./save_genes_basic.json"))
+genes=json.load(open("./data/save_genes_basic.json"))
 
 rooters={}
 families={}
@@ -24,5 +24,5 @@ for i in genes:
     families[i]=getRoot(i).copy()
     rooters={}
     
-with open("./save_genes_family.json","w") as f:
+with open("./data/save_genes_family.json","w") as f:
     f.write(json.dumps(families,indent=4))

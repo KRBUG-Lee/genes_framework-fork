@@ -1,0 +1,574 @@
+{
+    "a1": {
+        "name": "a1",
+        "dna": "nvAgExc5Pe4mih7220AchCMqUuLueiMUtqitgCdgkBkIcRPGCCuBPVnoOMlEFjTX",
+        "hash": "cd4af76125c3853ce60ebb11b29c4de0",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1346838,
+        "factor": 0
+    },
+    "b2": {
+        "name": "b2",
+        "dna": "hO1c69h2yApL8gVHvuRW0X40wwmWaGu6RDveEjllS2J3F20HAhWR4jtYxoDuXMKY",
+        "hash": "3da33ff2b03d4a33769baaf00c2e1297",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1346838,
+        "factor": 0
+    },
+    "c3": {
+        "name": "c3",
+        "dna": "FZ4Kpr0xM7BxCJBX4qBboPbxizdTttyVAG0tHCq8Wgn77wvLHC8tx13z1zNAHvDt",
+        "hash": "9fc0d886bd5431a24141f7416ef31536",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1346838,
+        "factor": 0
+    },
+    "d4": {
+        "name": "d4",
+        "dna": "gXtekZpImdIgiiqFyfdHLrF5P1jmyRe8VNj9Po72GsESjmBrfW9Cqf4kZVgEW9pn",
+        "hash": "e83c2f450ae3efebc6831d915353da46",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1346838,
+        "factor": 0
+    },
+    "e5": {
+        "name": "e5",
+        "dna": "Cl1zo34whLDAPqiWPc15oUxkj0ugXJi3wRBUMgVUHZFwicFA215x0ypodJ5VteoW",
+        "hash": "a1f0873474161eb96f7199b98cb69688",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1346838,
+        "factor": 0
+    },
+    "f6": {
+        "name": "f6",
+        "dna": "BdryQbjE1MbLti7vZHdW4jeEXIfhXVNTRhs0ZDR5tbrKTPC3mRjMCJnE9kGmapVR",
+        "hash": "4d4122b4245319bb63122698744b7d12",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "g7": {
+        "name": "g7",
+        "dna": "rrh89kwIw5xcHNNXJIA1vz5hppQUKDvUMn44itonSwVq6keOs0zPd4Z66CWajDAt",
+        "hash": "b3fd25d90dadeb4b409e75600ad886e3",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "h8": {
+        "name": "h8",
+        "dna": "pKV3oiCOFExC8GBHLJyI0q3guL7zfnV9EWeJ4aWIa86SYbfGoqXHYR8RoF5MOFZM",
+        "hash": "c96c049d0349293bbc7fb7184f04cc6b",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "i9": {
+        "name": "i9",
+        "dna": "GLSY5gGEsLK2viqYjxnKedmDhqJRgANfNWk7vKWFprx8MeYiE70ZdlA78xbdM4U4",
+        "hash": "778e657d9e43309fbff07cd6e3b35eca",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "j10": {
+        "name": "j10",
+        "dna": "lZl5ZeZZcNwk24fbtsHANYi7SJscmDFExP8MQS0lPXlzRmBK1npaeiluuKNeFpC1",
+        "hash": "6a41df86a8d338bb5d392834499f5bd5",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "k11": {
+        "name": "k11",
+        "dna": "KapjRVCY6E8iI6Y2lQTW7WYlY1peIOr54bLJuOi1eRXqwsvMZCENnUWcos9lI1yF",
+        "hash": "ef43bbf2270864f94bade942462273ca",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "l12": {
+        "name": "l12",
+        "dna": "uSuH7X1z9qIJB88r2x4PXpBLSemXMKIlkHRk1itUP6ScM13RvwkwPmNXv7mv8pXs",
+        "hash": "9aa5410dd6393e2dc2083e9277b0e83f",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "m13": {
+        "name": "m13",
+        "dna": "OaBxpe5TaQg8jwhNvIpK7fMZcSbiafhDeRJ2t6UseJdrUYOmN3lzqFa58Bs0ZIpZ",
+        "hash": "feca74123f685b85bc0f40c1fcccefb9",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "n14": {
+        "name": "n14",
+        "dna": "IMHdfFSI3nuMbzRuMYy78GRPJNHcvpDRkIJrdAH2gKXiKZt1nDVOkuCEIkxGj5EA",
+        "hash": "c3b87e7c1def539c78e55f8463d0d990",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "o15": {
+        "name": "o15",
+        "dna": "35gBg89bZaWXViFcL5kKYkmvdJtoPXHoqncwaEcOjnqD2Egt4z57W7UbpuLeNBsR",
+        "hash": "f98627616a64ccbd603bdefcd67bc094",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "p16": {
+        "name": "p16",
+        "dna": "jrlS06gZQtQnnUbobMgBow4Y280M962e4tq8ZJqxbpmnY3QKq2YaTakCAqYiPBju",
+        "hash": "2cf5c16ba5d6f23741175a722025d5df",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "q17": {
+        "name": "q17",
+        "dna": "LjqLaKrsh9UpZr5KeAJTjbUsswXSOt5mx5MCIrzdD46MveJJx48raAn11jBWOtPv",
+        "hash": "4c7af3c9d23cf2f71d4fe4810afbdeff",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1356845,
+        "factor": 0
+    },
+    "r18": {
+        "name": "r18",
+        "dna": "OdkvJaPt7MBSeFqTaOoo4vtBxArWcHqPqgCmzogL9iQ7E98JuRHUcq4Fs25kteLb",
+        "hash": "4ce3c5dbadc1a50c35ced7c012fdb399",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "s19": {
+        "name": "s19",
+        "dna": "vx0KY63GzvoRprwh3fUWlFQpu9VZUcRTKPHX6HWPI3EgPqgSRDka2E0VD95DT08v",
+        "hash": "e00138cc3b3c02568a4f6b07c5b68c65",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "t20": {
+        "name": "t20",
+        "dna": "2Qzobpy6r6RFxoeqY1t9EQMerbQ6vuZR8ZfPK8Ok6T6oEsxbbulajWtwae8FYEqG",
+        "hash": "e139edce90ba819282792dae84a346dc",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "u21": {
+        "name": "u21",
+        "dna": "IIr02CCS70qw0XWd9kTEQVhgHDLlRcBR71Wg0S04iUFng1vF3teisUjrcdwfdq7J",
+        "hash": "4ec045c3e464374b5270380cafa56b24",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "v22": {
+        "name": "v22",
+        "dna": "xH1uAbOenj1Vz47Axp2oNHUOGAvnboQXQNylbMCT0EtDGXeeCo2ONyVOII8UkL65",
+        "hash": "461185ec64dc6fa36e39b64003cd4fc3",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "w23": {
+        "name": "w23",
+        "dna": "V8GD8kbM7pHJ8BkSMXSmOFZrInOB7XntQE2yhdt4g03fRkrJ1ry37wUNbQ5reqBB",
+        "hash": "a6bc7f083163d28bb40f91969ad96478",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "x24": {
+        "name": "x24",
+        "dna": "liYOewAts2pDEAayfYmgoxcJGANxSLwL7RSbs7EG8kcRhXUhu1586tdBbRVPdmok",
+        "hash": "085027f8fc5bdafebabf8e494930dbd1",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "y25": {
+        "name": "y25",
+        "dna": "ZfqfOBdg8rkHPxnA02SpLlgNx4CEkQVls1B5PaxTOHxlwduk3yjI5kFnXgigwwMu",
+        "hash": "aa034b507202b1b711ade69b91b42a78",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "z26": {
+        "name": "z26",
+        "dna": "70atzlSIsSbHeOp6BzihzvlaX2jjBoLM42HB6fw42jaTg240s1P6moC0sop83yUA",
+        "hash": "3e6c15dd26a9a60985250b52efd3b9ae",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "A27": {
+        "name": "A27",
+        "dna": "7d2aozE1tIOWaip9dwIkiYK6sYRpGxPaV5gvv8i32UnSIkUgvwB2i0facwetDTzE",
+        "hash": "1b1c6fbb98b6223f43bc2bed593f8ef2",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "B28": {
+        "name": "B28",
+        "dna": "M4NNdHKY6H9XvNNrn4iQWBx8idDw0BtyNK63soS7ezVRcmxV6LGU3Wkn7d36SILb",
+        "hash": "d7716c7d9b9549cdaccc3c734400e8b1",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "C29": {
+        "name": "C29",
+        "dna": "Xv1dLXmVeMsNCqLTcIzGkTDq6bnATRTuvN4zH34ipQ2R4gvJvNbNFcgPIASPA68o",
+        "hash": "ea08b75632952205d8eaacc1449d1356",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "D30": {
+        "name": "D30",
+        "dna": "wOlPHHOh8bRsKVP21KKlwa4jFUzc8pXhOxfj9FcVjsDbeTvPkkglzFfs7c69ABM4",
+        "hash": "ddc1b3778651369db9a81dd10966f5da",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "E31": {
+        "name": "E31",
+        "dna": "WVEFENhCksiG1sye6ml6l85mzTsxpJBz8hWQTJcnvExmYEnZpRB9eomoyrx0HANk",
+        "hash": "f0818206443c980a6e4470a3e8ca2293",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1366837,
+        "factor": 0
+    },
+    "F32": {
+        "name": "F32",
+        "dna": "yBPcJ0gtOjvNG7JhSv5WSfT3ZrZi4y3ppVP7cgwEDNHibhsC1427xGiv6lbcGWOZ",
+        "hash": "d1dec0bba117d95ac70e64485535c110",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "G33": {
+        "name": "G33",
+        "dna": "ZPZWVgxVZwFBdZVYiWNK3kqM1agI16UP5Hc5w0EkVtIwlL9xpnyfDCkLqcOnC8I3",
+        "hash": "ede48b499fe69fdb969968b1d5a820c1",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "H34": {
+        "name": "H34",
+        "dna": "Fx6hdEtT9R50Jbyzihf1Soy7FabXsUseCupD1eoduQySf5hAbg9c1Evwn0BpqBlP",
+        "hash": "9b660fbf6f79b7922ec7822e1766e6fc",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "I35": {
+        "name": "I35",
+        "dna": "v4Qnopm0av1xspAPsA334wFVYJ9z4KcFn4b4vTLRHxDa8t2B0i0iDNgChMbIElae",
+        "hash": "00362364800bf6ca132fa95952662998",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "J36": {
+        "name": "J36",
+        "dna": "YkUS3S8eqbhDXUdv6vsKXEdzdESarCev8VXTL4bccpjRpkbHY6k6vLtTyMFXCIEJ",
+        "hash": "787913696c6768b99d30ac444b366d2e",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "K37": {
+        "name": "K37",
+        "dna": "Gqp5Jx231gtu858nK5cC6Fm2onr8W6WzpPpZx1gNIa40kGxyyHnIA6dBsoshnIDw",
+        "hash": "5eafa2fb56c33513a57b72ec3735bc83",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "L38": {
+        "name": "L38",
+        "dna": "5U0ev39dTJn4mcasiojpYelV9HF0FkMN2DVTojuzrSbgz2anhzHfznDONdgjcewg",
+        "hash": "4b3fad3221ced1976722cb268a2b071e",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "M39": {
+        "name": "M39",
+        "dna": "mA2YdMeLWOXsWxiaeQCGkQLL9bj8ejhjUta7bYPhmSdTuz4GccfemU1bYhXiC9Ax",
+        "hash": "a432e4f8b5535579da88dce63f8dc1fd",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "N40": {
+        "name": "N40",
+        "dna": "98A1UR2YhVcWYK7OsAvZuVXEpukQrKwEW8QqD5MnJTPs5MtUVgX1RXMkvoH1Nh9k",
+        "hash": "02e1cd4345c762ac55dfd98f6b53a13e",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "O41": {
+        "name": "O41",
+        "dna": "FkvMuLfyzA2B1EZfH6FVWiPHadtxtdolYPYJq9v2aZKIgFaJYswOmBvYpyHFbMY2",
+        "hash": "71e29be3c8660929e17ce3bf7e91461e",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "P42": {
+        "name": "P42",
+        "dna": "Ga78CKgAt4PRAoSGuYMIUTyF4Bs1I8HjMHzLrWw4ULWIUz4hNxjmJtAhFG1CPa0D",
+        "hash": "4b569538452ccc1b3768ab1b1b4fe7b9",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "Q43": {
+        "name": "Q43",
+        "dna": "UjogIAwvSitq3Gi7n1rWcJgbSIRDIRaUEmNimPFWDIArv2q3RA8j0Am9dlahV5nP",
+        "hash": "a6c0a30dbbe1aff01280bfae5c32481a",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "R44": {
+        "name": "R44",
+        "dna": "RSwbEGPgpsLeu4gVYiGHRMfh3nKqXLyuap0sC5NAhWGQWfpDcCt1SsxnkVUsVX40",
+        "hash": "63a104c3258d7530f068dcfef6b9126d",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1376834,
+        "factor": 0
+    },
+    "S45": {
+        "name": "S45",
+        "dna": "uFjECOqh5i1q2G1xdl7xMNMH4ONlJejPued80blnm3Y0P3y099uxdUBvHT11O5dD",
+        "hash": "2089db12a6b1b20e3091f767f0574c38",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "T46": {
+        "name": "T46",
+        "dna": "BtWc4tuRAs7yxAX0PC49Uisaxem1M2aOhwB4n6QN56f7Wjs6QKWiadPiL5KIyxSj",
+        "hash": "38b321cbc3c34fc10db63d7fa18dfcad",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "U47": {
+        "name": "U47",
+        "dna": "tGKcdHestQ4Ilw9JmqpFMev3CGBQbasVtrNntM6fWuQ1H1RNAT2isyTOZ4t9V3pC",
+        "hash": "8a96330463833c7e93a6cef0609c977c",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "V48": {
+        "name": "V48",
+        "dna": "Ls6dNI1IR2KTDKA80YarCfslWOpecaadHeymRgBngkumU8TENN2kfwUTeKUh5BWQ",
+        "hash": "73e643ded5831013a87a109ba4ed7096",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "W49": {
+        "name": "W49",
+        "dna": "7rq7OwkSNz29gpKMx2uF9tynnLOT155oHHO1me3d0iWRUoezlDXuQEOP1vjaXd6c",
+        "hash": "b803cb2bf24de0402be792c13e45f435",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "X50": {
+        "name": "X50",
+        "dna": "FYvc2ZXEZ9eSuah8BHZKpKIAIMzIJm6xwPtXRDiNeVv8LUe7HSTcm4CGNVTbONGs",
+        "hash": "d9c236e2013f9920e033188d46a6a77c",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "Y51": {
+        "name": "Y51",
+        "dna": "sKizunjvpVs5VbOm9VWSw6xoUYbPrFqAl2JVGKjRzUnhq92vPsoFMD3A2WOoZW7E",
+        "hash": "9c049dfc987164d13c8bbfc7837e84c1",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    },
+    "Z52": {
+        "name": "Z52",
+        "dna": "vBDr9pCObe1K8Gk9WTjHV4XOAsXad05Aq6ktvl6j43CS9ImutuQFERPR368zO3ie",
+        "hash": "bd895aa10d4abc5649d50d74e628d0a1",
+        "root": [
+            "SOURCE_BIO",
+            "SOURCE_BIO"
+        ],
+        "borntime": 1664494949.1386833,
+        "factor": 0
+    }
+}
