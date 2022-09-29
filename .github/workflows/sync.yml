@@ -16,7 +16,7 @@ jobs:
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          echo "StrictHostKeyChecking no\n\nHost git.pyliubaolin.top\nHostName git.pyliubaolin.top\nPort 2233" >> ~/.ssh/config
+          echo -en "StrictHostKeyChecking no\n\nHost git.pyliubaolin.top\nHostName git.pyliubaolin.top\nPort 2233" >> ~/.ssh/config
       - name: Push Mirror
         env:
           SOURCE_REPO: 'git@git.pyliubaolin.top:Gardenia/genes_framework.git'
