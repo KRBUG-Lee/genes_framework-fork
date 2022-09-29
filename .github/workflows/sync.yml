@@ -3,6 +3,7 @@ name: sync from git.pyliubaolin.top
 on: 
   schedule:
     - cron: "0 16 * * *"
+  workflow_dispatch:
 
 jobs:
   git-mirror:
